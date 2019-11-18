@@ -23,7 +23,7 @@
 
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Top-Papers-on-Clustering-Algorithms/blob/master/cal(12).pdf" style="text-decoration:none;"> CURE: An Efficient Clustering Algorithm for Large Databases</a></b></li> 
  
-  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Top-Papers-on-Clustering-Algorithms/blob/master/cal(13).pdf" style="text-decoration:none;">  A K-Means Clustering Algorithm</a></b></li>  
   
   
   
