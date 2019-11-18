@@ -27,6 +27,10 @@
   
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Top-Papers-on-Clustering-Algorithms/blob/master/cal(14).pdf" style="text-decoration:none;">  Algorithms for hierarchical clustering: An overview</a></b></li>   
   
-  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Top-Papers-on-Clustering-Algorithms/blob/master/cal(15).pdf" style="text-decoration:none;"> Optimal algorithms for complete linkage clustering in d dimensions</a></b></li> 
+
+
+
+
 
 </ul>
